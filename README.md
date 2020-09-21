@@ -13,3 +13,15 @@ Because I need some structure! .This will help me take steps to build my portfol
 **Day 2:** Learnt Big O notation & Time complexity.also, uploaded my solved HackerRank problem solutions. 
 
 [Day 2 Notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%202/day%202.pdf)
+
+**Day 3:** learnt about "Bit wise operators"
+
+[Day 3 Notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%203/day3.pdf)
+
+**Day 4** learnt about "Stack" 
+          
+           - Introduction of stack
+           - Application of stack
+           - Implementation of stack [stack_code](https://github.com/annamalai923/100day-coding-challenge/tree/master/day%204/stack)
+           
+Day 4 notes - [notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%204/day4.pdf)
