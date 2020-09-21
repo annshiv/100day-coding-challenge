@@ -22,6 +22,7 @@ Because I need some structure! .This will help me take steps to build my portfol
           
            - Introduction of stack
            - Application of stack
-           - Implementation of stack [stack_code](https://github.com/annamalai923/100day-coding-challenge/tree/master/day%204/stack)
+           - Implementation of stact
+[stack_code](https://github.com/annamalai923/100day-coding-challenge/tree/master/day%204/stack)
            
-Day 4 notes - [notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%204/day4.pdf)
+[Day 4 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%204/day4.pdf)
