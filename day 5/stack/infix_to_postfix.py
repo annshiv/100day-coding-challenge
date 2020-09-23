@@ -35,7 +35,7 @@ class conversion:
         except KeyError:
             return False
     
-    def infixtoprefix(self,exp):
+    def infixtopostfix(self,exp):
         for i in exp:
             if self.isoperand(i):
                 self.postfix.append(i)
@@ -62,4 +62,4 @@ class conversion:
 
 exp = "a+b*(c^d-e)^(f+g*h)-i"
 obj = conversion(len(exp)) 
-obj.infixtoprefix(exp)
+obj.infixtopostfix(exp)
