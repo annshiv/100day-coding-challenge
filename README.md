@@ -23,6 +23,12 @@ Because I need some structure! .This will help me take steps to build my portfol
            - Introduction of stack
            - Application of stack
            - Implementation of stact
-[stack_code](https://github.com/annamalai923/100day-coding-challenge/tree/master/day%204/stack)
            
 [Day 4 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%204/day4.pdf)
+
+**Day 5** Learnt about stack implementaion
+
+          - Stack using infix to postfix
+          - Using stack to reverse a string
+
+[Day 5 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%205/day5.pdf)
