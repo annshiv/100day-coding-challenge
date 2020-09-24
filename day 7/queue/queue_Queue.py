@@ -1,7 +1,3 @@
-# Python program to 
-# demonstrate implementation of 
-# queue using queue module 
-
 
 from queue import Queue 
 
@@ -35,6 +31,4 @@ q.put(1)
 print("\nEmpty: ", q.empty()) 
 print("Full: ", q.full()) 
 
-# This would result into Infinite 
-# Loop as the Queue is empty. 
-# print(q.get()) 
+
