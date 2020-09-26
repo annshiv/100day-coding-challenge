@@ -50,3 +50,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Queue implementation using queue.Queue
           
 [Day 7 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%207/day7.pdf)
+
+**Day 8**
+
+          - Queue using stacks
+          - Reversing a Queue
+          - Reversing a Queue using recursion
+          
+[Day 8 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%208/day8.pdf)
