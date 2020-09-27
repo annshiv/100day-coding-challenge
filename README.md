@@ -32,3 +32,29 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Using stack to reverse a string
 
 [Day 5 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%205/day5.pdf)
+
+**Day 6** 
+
+          - Evaluation of postfix expression(single digit expression)
+          - Expression 2 (Integer contains with mutible digits)
+          
+[Day 6 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%206/day6.pdf)
+
+**Day 7** Learnt about Queue
+
+          - Introduction to queue
+          - Application of Queue data-structure
+          - HeapQ or heapQueue
+          - Queue implementation using list
+          - Queue implementation using collection.Deque
+          - Queue implementation using queue.Queue
+          
+[Day 7 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%207/day7.pdf)
+
+**Day 8**
+
+          - Queue using stacks
+          - Reversing a Queue
+          - Reversing a Queue using recursion
+          
+[Day 8 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%208/day8.pdf)
