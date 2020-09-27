@@ -58,3 +58,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Reversing a Queue using recursion
           
 [Day 8 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%208/day8.pdf)
+
+**Day 9**
+
+          - Reversing the first k element
+          - Sorting a Queue
+          - Interleave the first half of Queue with second half
+
+[Day 9 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%209/day9.pdf)
