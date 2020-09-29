@@ -66,3 +66,12 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Interleave the first half of Queue with second half
 
 [Day 9 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%209/day9.pdf)
+
+**Day 10**
+
+          - Introduction to Linked List
+          - Implementation of singly linked list
+          - Implementation of doubly linked list
+          - Advandage and disadvantages of linked list
+         
+[Day 10 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%20%2010/day10.pdf)
