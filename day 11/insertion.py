@@ -40,5 +40,5 @@ class linkedlist:
     def printList(self): 
         temp = self.head 
         while (temp): 
-            print temp.data, 
+            print(temp.data), 
             temp = temp.next
