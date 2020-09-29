@@ -63,5 +63,5 @@ if __name__=='__main__':
     # Insert 8, after 7. So linked list becomes 1 -> 7-> 8-> 6-> 4-> None 
     llist.insertAfter(llist.head.next, 8) 
   
-    print 'Created linked list is:', 
+    print('Created linked list is:'), 
     llist.printList() 
