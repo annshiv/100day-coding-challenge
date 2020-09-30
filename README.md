@@ -75,3 +75,12 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Advandage and disadvantages of linked list
          
 [Day 10 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%20%2010/day10.pdf)
+
+**Day 11**
+
+          - Circular Linked list
+          - Pros & Cons in Circular Linked list
+          - Insertion in singly Linked list
+          - Insertion in Doubly Linked list
+
+[Day 11 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%2011/day11.pdf)
