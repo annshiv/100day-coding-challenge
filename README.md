@@ -91,3 +91,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Implementation of circular singly linked list
          
 [Day 12 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%2012/day12.pdf)
+
+**Day 13**
+
+          - Detect Loop in Linked List
+          - Loop detection using floyd's Algorithm
+          - Find Middle of linked list
+    
+[Day 13 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%2013/day13.pdf)
