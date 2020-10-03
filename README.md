@@ -107,3 +107,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - reverse a linked list
    
 [Day 14 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2014/day14.pdf)
+
+**Day 15**
+
+          - Segregaring Even and Odd 
+          - Find Nth Node in Linked list
+        
+[Day 15 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2015/day15.pdf)
