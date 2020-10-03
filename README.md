@@ -99,3 +99,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Find Middle of linked list
     
 [Day 13 notes](https://github.com/annamalai923/100day-coding-challenge/blob/master/day%2013/day13.pdf)
+
+**Day 14**
+
+          - Detect and delete loop
+          - deleting in linked list
+          - reverse a linked list
+   
+[Day 14 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2014/day14.pdf)
