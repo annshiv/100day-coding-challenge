@@ -114,3 +114,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Find Nth Node in Linked list
         
 [Day 15 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2015/day15.pdf)
+
+**Day 16**
+
+          - Merge two sorted linked list
+          - Pairwise swap elements
+          - Palindrome
+
+[Day 16 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2016/day16.pdf)
