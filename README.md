@@ -122,3 +122,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Palindrome
 
 [Day 16 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2016/day16.pdf)
+
+**Day 17**
+
+          - Introduction to tree
+          - Implementation of tree
+          - Application of tree
+          
+[Day 17 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2017/day17.pdf)
