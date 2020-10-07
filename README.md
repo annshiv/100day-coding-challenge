@@ -130,3 +130,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Application of tree
           
 [Day 17 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2017/day17.pdf)
+
+**Day 18**
+
+          - Tree Traversals
+          - Size of tree
+          - level order traversal
+   
+[Day 18 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2018/day18.pdf)
