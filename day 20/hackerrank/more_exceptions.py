@@ -3,4 +3,4 @@ class Calculator:
         if (n >= 0 and p >= 0):
             return n ** p
         else:
-            return("n and p should be non-negative"
+            return("n and p should be non-negative")
