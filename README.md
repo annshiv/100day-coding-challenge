@@ -138,3 +138,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - level order traversal
    
 [Day 18 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2018/day18.pdf)
+
+**Day 19**
+
+          - Height of binary Tree
+          - Left view of binary tree
+          - find maximum and minimum in binary tree
+
+[Day 19 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2019/day19.pdf)
