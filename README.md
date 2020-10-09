@@ -154,3 +154,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Maximum width of a binary tree
          
 [Day 20 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2020/day20.pdf)
+
+**Day 21**
+
+          - Lowest common ancestor in a binary tree
+          - Diameter of binary tree
+          
+[Day 21 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2021/day21.pdf)
