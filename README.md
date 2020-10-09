@@ -146,3 +146,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - find maximum and minimum in binary tree
 
 [Day 19 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2019/day19.pdf)
+
+**Day 20**
+
+          - Print nodes at k distance from root
+          - Children sum properity in Binary tree
+          - Maximum width of a binary tree
+         
+[Day 20 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2020/day20.pdf)
