@@ -161,3 +161,8 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Diameter of binary tree
           
 [Day 21 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2021/day21.pdf)
+
+**Day 22**
+
+          - flip binary tree
+          - tree isomorphism problem
