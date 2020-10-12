@@ -166,3 +166,5 @@ Because I need some structure! .This will help me take steps to build my portfol
 
           - flip binary tree
           - tree isomorphism problem
+
+[Day 22 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2022/day22.pdf)
