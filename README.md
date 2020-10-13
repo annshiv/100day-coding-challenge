@@ -168,3 +168,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - tree isomorphism problem
 
 [Day 22 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2022/day22.pdf)
+
+**Day 23**
+
+          - Insertion in binary search tree
+          - Searching in binary searcg tree
+          
