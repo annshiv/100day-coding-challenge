@@ -175,3 +175,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Searching in binary searcg tree
           
 [Day 23 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2023/day23.pdf)
+
+**Day 24**
+          
+          - Deletion in Binary search tree
+    
+[Day 24 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2024/day24.pdf)
