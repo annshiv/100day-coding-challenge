@@ -181,3 +181,8 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Deletion in Binary search tree
     
 [Day 24 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2024/day24.pdf)
+
+**Day 25**
+
+          - Floor in binary search tree
+          - self balancing tree
