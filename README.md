@@ -186,3 +186,5 @@ Because I need some structure! .This will help me take steps to build my portfol
 
           - Floor in binary search tree
           - self balancing tree
+
+[Day 25 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2025/day25.pdf)
