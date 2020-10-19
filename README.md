@@ -188,3 +188,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - self balancing tree
 
 [Day 25 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2025/day25.pdf)
+
+**Day 26**
+
+          - Find a binary tree or Binary search tree
+ 
+[Day 26 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2026/day26.pdf) 
