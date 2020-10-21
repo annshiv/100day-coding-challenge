@@ -200,3 +200,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Binary tree(Implementation, Introduction, Applications)
      
 [Day 27 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2027/day27.pdf)
+
+**Day 28**
+
+          - Monte hall 3 doors game
+          - Rock, Paper, Scissor game
+          
+[Day 28 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2028/day28.pdf)
