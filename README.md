@@ -194,3 +194,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Find a binary tree or Binary search tree
  
 [Day 26 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2026/day26.pdf) 
+
+**Day 27**
+
+          - Binary tree(Implementation, Introduction, Applications)
+     
+[Day 27 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2027/day27.pdf)
