@@ -207,3 +207,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Rock, Paper, Scissor game
           
 [Day 28 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2028/day28.pdf)
+
+**Day 29**
+
+          - Introduction of sorting algorithm
+          - Bubble sort
+         
+[Day 29 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2029/day29.pdf)
