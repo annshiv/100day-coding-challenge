@@ -214,3 +214,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Bubble sort
          
 [Day 29 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2029/day29.pdf)
+
+**Day 30**
+
+          - Introduction and implementation of Selecting sort
+       
+[Day 30 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2030/day30.pdf)
