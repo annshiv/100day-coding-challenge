@@ -220,3 +220,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Introduction and implementation of Selecting sort
        
 [Day 30 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2030/day30.pdf)
+
+**Day 31**
+
+          - Introduction and implementation of Insertion sort
+          - Recursive Bubble sort
+          - sort an array of strings using selection sort
+          
+[Day 31 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2031/day31.pdf)
