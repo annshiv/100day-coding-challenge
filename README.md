@@ -228,3 +228,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - sort an array of strings using selection sort
           
 [Day 31 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2031/day31.pdf)
+
+**Day 31**
+
+          - Recursive Insertion sort
+          - Introduction and Implementation of Merge sort
+          
+[Day 32 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2032/day32.pdf)
