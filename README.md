@@ -229,9 +229,15 @@ Because I need some structure! .This will help me take steps to build my portfol
           
 [Day 31 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2031/day31.pdf)
 
-**Day 31**
+**Day 32**
 
           - Recursive Insertion sort
           - Introduction and Implementation of Merge sort
           
 [Day 32 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2032/day32.pdf)
+
+**Day 33** 
+
+          - Magic Square(Mini project)
+          
+[Day 33 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2033/day%2033.pdf)
