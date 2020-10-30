@@ -241,3 +241,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Magic Square(Mini project)
           
 [Day 33 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2033/day%2033.pdf)
+
+**Day 34**
+
+          - Tic Tak Toe game project
+         
+[Day 34 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2034/Tic%20-%20Tak%20-%20Toe.pdf)
