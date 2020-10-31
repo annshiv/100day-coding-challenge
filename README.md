@@ -247,3 +247,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Tic Tak Toe game project
          
 [Day 34 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2034/Tic%20-%20Tak%20-%20Toe.pdf)
+
+**Day 35**
+
+          - Second implementation for merge sort
+         
+[Day 35 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2035/day%2035.pdf)
