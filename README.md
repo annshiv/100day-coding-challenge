@@ -253,3 +253,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Second implementation for merge sort
          
 [Day 35 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2035/day%2035.pdf)
+
+**Day 36**
+
+          - Iterative Merge sort
+          - Iterative Quick sort
+[Day 36 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2036/day36.pdf)
