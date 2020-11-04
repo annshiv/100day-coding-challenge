@@ -261,7 +261,7 @@ Because I need some structure! .This will help me take steps to build my portfol
 
 [Day 36 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2036/day36.pdf)
 
-**Day 31**
+**Day 37**
 
           - Heap sort
           
