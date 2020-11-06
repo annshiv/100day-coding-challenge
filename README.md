@@ -266,3 +266,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Heap sort
           
 [Day 37 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2037/day37.pdf)
+
+**Day 38**
+
+          - Snake and Ladder game
+          
+[day 38 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2038/day38.pdf)
