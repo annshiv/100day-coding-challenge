@@ -272,3 +272,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Snake and Ladder game
           
 [day 38 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2038/day38.pdf)
+
+**Day 39**
+
+          - Shell sort
+          
+[day 39 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2039/day39.pdf)
