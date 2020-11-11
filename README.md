@@ -284,3 +284,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Lottery simulation
           
 [day 40 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2040/day40.pdf)
+
+**Day 41**
+
+          - Image Enhancing
+          - Image flipping
+        
+[day 41 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2041/day41.pdf)
