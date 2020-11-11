@@ -278,3 +278,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Shell sort
           
 [day 39 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2039/day39.pdf)
+
+**Day 40**
+
+          - Lottery simulation
+          
+[day 40 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2040/day40.pdf)
