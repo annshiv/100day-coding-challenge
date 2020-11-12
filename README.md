@@ -297,3 +297,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Black Jack Game simulation
           
 [day 42 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2042/day42.pdf)
+
+**Day 43**
+
+          - Introduction to searching algorithms
+          - Implementation for linear search
+          - Implementation for Binary search
+          
+[day 43 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2043/day43.pdf)
