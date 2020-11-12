@@ -291,3 +291,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Image flipping
         
 [day 41 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2041/day41.pdf)
+
+**Day 42**
+
+          - Black Jack Game simulation
+          
+[day 42 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2042/day42.pdf)
