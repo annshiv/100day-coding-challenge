@@ -46,3 +46,34 @@ class Business(Account):
     # Define a __str__ method that returns a string specific to Business accounts
     def __str__(self):
         return f'Business Account #{self.acct_nbr}\n  Balance: {Account.__str__(self)}'
+
+class Customer:
+    def __init__(self, name, PIN):
+        self.name = name
+        self.PIN = PIN
+        self.accts = {'C':[],'S':[],'B':[]}
+
+    def __str__(self):
+        return self.name
+        
+    def open_checking(self,acct_nbr,opening_deposit):
+        self.accts['C'].append(Checking(acct_nbr,opening_deposit))
+    
+    def open_savings(self,acct_nbr,opening_deposit):
+        self.accts['S'].append(Savings(acct_nbr,opening_deposit))
+        
+    def open_business(self,acct_nbr,opening_deposit):
+        self.accts['B'].append(Business(acct_nbr,opening_deposit))
+        
+    def get_total_deposits(self):
+        total = 0
+        for acct in self.accts['C']:
+            print(acct)
+            total += acct.balance
+        for acct in self.accts['S']:
+            print(acct)
+            total += acct.balance
+        for acct in self.accts['B']:
+            print(acct)
+            total += acct.balance
+        print(f'Combined Deposits: ${total:.2f}') # added precision formatting here
