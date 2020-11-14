@@ -77,3 +77,13 @@ class Customer:
             print(acct)
             total += acct.balance
         print(f'Combined Deposits: ${total:.2f}') # added precision formatting here
+
+def make_dep(cust,acct_type,acct_num,dep_amt):
+    for acct in cust.accts[acct_type]:
+        if acct.acct_nbr == acct_num:
+            acct.deposit(dep_amt)
+
+def make_wd(cust,acct_type,acct_num,wd_amt):
+    for acct in cust.accts[acct_type]:
+        if acct.acct_nbr == acct_num:
+            acct.withdraw(wd_amt)
