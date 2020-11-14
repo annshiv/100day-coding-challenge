@@ -305,3 +305,12 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Implementation for Binary search
           
 [day 43 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2043/day43.pdf)
+
+**Day 44**
+
+          - Bank account manager (The goal is to create a class called Account which will be an abstract class
+          for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Then 
+          you should manage credits and debits from these accounts through an ATM style program)
+          
+[day 44 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2044/day44.pdf)       
+   
