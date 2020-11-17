@@ -314,3 +314,8 @@ Because I need some structure! .This will help me take steps to build my portfol
           
 [day 44 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2044/day44.pdf)       
    
+**Day 45**
+
+          - Jump search Implementation
+          
+[day 45 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2045/day45.pdf)
