@@ -325,3 +325,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Natural language processing(Autour stylometry)
           
 [day 46 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2046/day46.pdf)
+
+**Day 47**
+
+          - Six degree of sepration
+          
+[day 47 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2047/day47.pdf)
