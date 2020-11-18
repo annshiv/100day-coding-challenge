@@ -331,3 +331,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Six degree of sepration
           
 [day 47 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2047/day47.pdf)
+
+**Day 48**
+
+          - Area calculation
+          
+[day 48 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2048/day48.pdf)
