@@ -337,3 +337,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Area calculation
           
 [day 48 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2048/day48.pdf)
+
+**Day 49**
+
+          - Introduction to turtle
+          - Circle mania(Turtle)
+          
+[day 49 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2049/day49.pdf)
