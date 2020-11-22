@@ -344,3 +344,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Circle mania(Turtle)
           
 [day 49 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2049/day49.pdf)
+
+**Day 50**
+
+          - English Thesaurus(mini project)
+          
+[day 50 output video](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2050/Recorded%20with%20FlexClip%20Screen%20Recorder.webm)
