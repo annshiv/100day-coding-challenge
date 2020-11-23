@@ -350,3 +350,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - English Thesaurus(mini project)
           
 [day 50 output video](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2050/Recorded%20with%20FlexClip%20Screen%20Recorder.webm)
+
+**Day 51**
+
+          - Interpolation search
+          
+[day 51 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2051/day51.pdf)
