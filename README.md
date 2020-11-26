@@ -356,3 +356,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Interpolation search
           
 [day 51 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2051/day51.pdf)
+
+**Day 54**
+
+          - Browser automation in whatsapp using python
+
+[day 54 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2054/day54.pdf)
+          
