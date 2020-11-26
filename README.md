@@ -357,6 +357,12 @@ Because I need some structure! .This will help me take steps to build my portfol
           
 [day 51 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2051/day51.pdf)
 
+**Day 52**
+
+          - FLAMES
+
+[day 52 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2052/day52.pdf)
+
 **Day 54**
 
           - Browser automation in whatsapp using python
