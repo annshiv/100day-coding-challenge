@@ -363,6 +363,12 @@ Because I need some structure! .This will help me take steps to build my portfol
 
 [day 52 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2052/day52.pdf)
 
+**Day 53**
+
+          - Image Compression
+
+[day 53 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2053/day53.pdf)
+
 **Day 54**
 
           - Browser automation in whatsapp using python
