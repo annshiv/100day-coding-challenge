@@ -386,3 +386,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Exponential Search
           
 [Day 56 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2056/day56.pdf)
+
+**Day 57**
+
+          - Pandas introduction
+          - Read files using PANDAS
+         
+[Day 57 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2057/day57.pdf)
