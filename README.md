@@ -380,3 +380,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Tkinter calculator
           
 [day 55 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2055/day55.pdf)
+
+**Day 56**
+
+          - Exponential Search
+          
+[Day 56 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2056/day56.pdf)
