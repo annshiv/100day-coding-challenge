@@ -400,3 +400,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Array creation using Numpy
           - Array Indexing
           - Basic Operations
+          
+**Day 59**
+
+          - Find day with date
+          
+[day 59 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2059/day59.pdf)
