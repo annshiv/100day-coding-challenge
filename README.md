@@ -393,3 +393,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Read files using PANDAS
          
 [Day 57 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2057/day57.pdf)
+
+**Day 58**
+
+          - Numpy Introduction
+          - Array creation using Numpy
+          - Array Indexing
+          - Basic Operations
