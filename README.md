@@ -406,3 +406,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Find day with date
           
 [day 59 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2059/day59.pdf)
+
+**Day 60**
+
+          - web-map shows volcanoes in India and world population
+          
+[day 60 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2060/output%20video.webm)
