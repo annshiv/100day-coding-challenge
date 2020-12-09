@@ -412,3 +412,22 @@ Because I need some structure! .This will help me take steps to build my portfol
           - web-map shows volcanoes in India and world population
           
 [day 60 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2060/output%20video.webm)
+
+**Day 61**
+
+          - Types of error 
+          - Error Handling
+          
+[day 61 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2061/day61.pdf)
+
+**Day 62**
+
+          - Count sort
+          
+[day 62 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2062/day62.pdf)
+
+**Day 63**
+
+          - India flag using turtle
+          
+[day 62 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2063/day63.pdf)
