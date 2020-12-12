@@ -469,3 +469,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Inplace rotate square matrix by 90 degrees without using any extra space
           
 [day 69 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2069/day69.pdf)
+
+**Day 70**
+
+          - Sort the given matrix
+          - Check if all rows of a matrix are circular rotations of each other
+          
+[day 70 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2070/day70.pdf)
