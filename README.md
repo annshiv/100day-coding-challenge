@@ -449,11 +449,17 @@ Because I need some structure! .This will help me take steps to build my portfol
 
           - Page Rank ( Find most visited page(node) - point distribution method)
           
-[day 66 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2066/day66.pdf)
+[day 66 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2066/day66.pdf)
 
 **Day 67**
 
           - Introduction to matrix
           - Rotate the matrix
           
-[day 67 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2066/day66.pdf)
+[day 67 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2067/day67.pdf)
+
+**Day 68**
+
+          - Inplace rotate square matrix by 90 degrees
+          
+[day 68 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2068/day68.pdf)
