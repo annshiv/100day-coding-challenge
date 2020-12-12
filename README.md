@@ -445,8 +445,15 @@ Because I need some structure! .This will help me take steps to build my portfol
           
 [day 65 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2065/output.mp4)
 
-**Day 65**
+**Day 66**
 
           - Page Rank ( Find most visited page(node) - point distribution method)
           
 [day 66 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2066/day66.pdf)
+
+**Day 67**
+
+          - Introduction to matrix
+          - Rotate the matrix
+          
+[day 67 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2066/day66.pdf)
