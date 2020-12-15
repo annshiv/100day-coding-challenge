@@ -482,3 +482,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Multiplication of matrix
           
 [day 71 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2071/day71.pdf)
+
+**Day 72**
+
+          - Print Lower triangular and Upper triangular matrix of an array
+          
+[day 72 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2072/day72.pdf)
