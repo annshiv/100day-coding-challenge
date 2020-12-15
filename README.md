@@ -476,3 +476,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Check if all rows of a matrix are circular rotations of each other
           
 [day 70 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2070/day70.pdf)
+
+**Day 71**
+
+          - Multiplication of matrix
+          
+[day 71 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2071/day71.pdf)
