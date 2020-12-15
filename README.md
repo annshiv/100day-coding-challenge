@@ -488,3 +488,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Print Lower triangular and Upper triangular matrix of an array
           
 [day 72 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2072/day72.pdf)
+
+**Day 73**
+
+          - Strassen's matrix multiplication
+          
+[day 73 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2073/day73.pdf)
