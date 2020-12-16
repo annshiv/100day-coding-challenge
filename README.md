@@ -494,3 +494,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Strassen's matrix multiplication
           
 [day 73 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2073/day73.pdf)
+
+**Day 74**
+
+          - Program to Print Matrix in Z form
+          - Print matrix in zag-zag fashion
+          
+[day 74 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2074/day74.pdf)
