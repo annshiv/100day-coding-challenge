@@ -501,3 +501,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Print matrix in zag-zag fashion
           
 [day 74 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2074/day74.pdf)
+
+**Day 75**
+
+          - Introduction to SQL
+          
+[day 75 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2075/day75.pdf)
