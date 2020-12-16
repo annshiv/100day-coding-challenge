@@ -524,3 +524,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - SELECT query
           
 [day 77 notes](https://github.com/annshiv/100day-coding-challenge/tree/master/day%2077/day77.pdf)
+
+**Day 78**
+
+          - SQL where clause
+          - SQL conjuctive operator
+          
+[day 78 notes](https://github.com/annshiv/100day-coding-challenge/tree/master/day%2077/day77.pdf)
