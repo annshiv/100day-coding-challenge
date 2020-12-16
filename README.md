@@ -507,3 +507,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Introduction to SQL
           
 [day 75 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2075/day75.pdf)
+
+**Day 76**
+
+          - SQL operator
+          - SQL expression
+          - SQL create, use, drop operations
+          
+[day 76 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2076/day76.pdf)
