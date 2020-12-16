@@ -515,3 +515,12 @@ Because I need some structure! .This will help me take steps to build my portfol
           - SQL create, use, drop operations
           
 [day 76 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2076/day76.pdf)
+
+**Day 77**
+
+          - SQL Create table
+          - SQL Drop table
+          - INSERT query
+          - SELECT query
+          
+[day 77 notes](https://github.com/annshiv/100day-coding-challenge/tree/master/day%2077/day77.pdf)
