@@ -538,3 +538,11 @@ Because I need some structure! .This will help me take steps to build my portfol
           - DELETE query
           
 [day 79 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2079/day79.pdf)
+
+
+**Day 80**
+
+          - LIKE clause
+          - ORDER by
+          
+[day 80 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2080/day80.pdf)
