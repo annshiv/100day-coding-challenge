@@ -585,3 +585,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           -  SQL INDEXES
           
 [day 86 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2086/day86.pdf)
+
+**Day 87**
+
+          -  SQL ALTER TABLE
+          
+[day 87 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2087/day87.pdf)
