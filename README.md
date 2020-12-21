@@ -553,3 +553,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - SORTING 
           
 [day 81 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2081/day81.pdf)
+
+**Day 82**
+
+          - SQL - Constraints
+          
+[day 82 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2082/day82.pdf)
