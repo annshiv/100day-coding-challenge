@@ -579,3 +579,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - UNION ALL clause
           
 [day 85 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2085/day85.pdf)
+
+**Day 86**
+
+          -  SQL INDEXES
+          
+[day 86 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2086/day86.pdf)
