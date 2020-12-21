@@ -559,3 +559,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - SQL - Constraints
           
 [day 82 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2082/day82.pdf)
+
+**Day 83**
+
+          - SQL - Joins
+          -  NULL values
+          
+[day 83 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2083/day83.pdf)
