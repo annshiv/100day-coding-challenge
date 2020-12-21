@@ -573,3 +573,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Union
           
 [day 84 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2084/day84.pdf)
+
+**Day 85**
+
+          - UNION ALL clause
+          
+[day 85 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2085/day85.pdf)
