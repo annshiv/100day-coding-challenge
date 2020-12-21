@@ -563,6 +563,13 @@ Because I need some structure! .This will help me take steps to build my portfol
 **Day 83**
 
           - SQL - Joins
-          -  NULL values
+          - NULL values
           
 [day 83 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2083/day83.pdf)
+
+**Day 84**
+
+          - SQL - Alias system
+          - Union
+          
+[day 84 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2084/day84.pdf)
