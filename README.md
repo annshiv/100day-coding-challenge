@@ -592,10 +592,16 @@ Because I need some structure! .This will help me take steps to build my portfol
           
 [day 87 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2087/day87.pdf)
 
-
 **Day 88**
 
           - SQL TRUNCATE TABLE command
           - SQL USING VIEWS
           
 [day 88 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2088/day88.pdf)
+
+**Day 89**
+
+          - the WITH CHECK OPTION
+          - UPDATING VIEW
+          
+[day 89 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2089/day89.pdf)
