@@ -605,3 +605,12 @@ Because I need some structure! .This will help me take steps to build my portfol
           - UPDATING VIEW
           
 [day 89 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2089/day89.pdf)
+
+**Day 90**
+
+          - INSERTING rows into a VIEW
+          - DELETING rows into a VIEW
+          - DROPPING VIEW
+          - HAVING clause
+          
+[day 90 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2090/day90.pdf)
