@@ -651,3 +651,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Find the number of islands
           
 [day 96 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2096/day96.pdf)
+
+**Day 97**
+
+          - Print matrix in spiral form
+          - Print matrix in anti spiral form
+          
+[day 97 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2097/day97.pdf)
