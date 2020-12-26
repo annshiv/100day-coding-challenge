@@ -631,3 +631,11 @@ Because I need some structure! .This will help me take steps to build my portfol
 **Day 93**
 
           - SUDOKU solver
+
+[day 93 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2093/output.mkv)   
+
+**Day 94**
+
+          - Facebook Login Automation
+          
+[day 94 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2094/output.mp4)   
