@@ -627,3 +627,7 @@ Because I need some structure! .This will help me take steps to build my portfol
           - TRANSACTION CONTROL COMMANDS
           
 [day 92 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2092/day92.pdf)
+
+**Day 93**
+
+          - SUDOKU solver
