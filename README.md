@@ -645,3 +645,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Largest Rectangular Area in a Histogram
           
 [day 95 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2095/day95.pdf)
+
+**Day 96**
+
+          - Find the number of islands
+          
+[day 96 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2096/day96.pdf)
