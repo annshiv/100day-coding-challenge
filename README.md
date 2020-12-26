@@ -639,3 +639,9 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Facebook Login Automation
           
 [day 94 output](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2094/output.mp4)   
+
+**Day 95**
+
+          - Largest Rectangular Area in a Histogram
+          
+[day 95 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2095/day95.pdf)
