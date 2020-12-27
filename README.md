@@ -664,3 +664,10 @@ Because I need some structure! .This will help me take steps to build my portfol
           - SQL subqueries
           
 [day 98 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2098/day98.pdf)
+
+**Day 99**
+
+          - Sum of non-diagonal parts 
+          - Count rows / columns with sum equal to diagonal sum 
+          
+[day 99 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2099/day99.pdf)
