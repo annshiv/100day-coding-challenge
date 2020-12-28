@@ -618,7 +618,7 @@ Because I need some structure! .This will help me take steps to build my portfol
 **Day 91**
 
           - SQL - TRANSACTION
-          - TRANSACTION CONTROL COMMANDS
+          - TRANSACTION CONTROL
           
 [day 91 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2091/day91.pdf)
 
