@@ -671,3 +671,7 @@ Because I need some structure! .This will help me take steps to build my portfol
           - Count rows / columns with sum equal to diagonal sum 
           
 [day 99 notes](https://github.com/annshiv/100day-coding-challenge/blob/master/day%2099/day99.pdf)
+
+**Day 100**
+
+          - SQL injections
